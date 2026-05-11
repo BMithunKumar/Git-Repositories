@@ -1,22 +1,32 @@
 # Git-Repositories
 
-
 # DevOps Practice Project
 
-![GitHub last commit]([https://img.shields.io/github/last-commit/BMithunKumar/devops-practice](https://github.com/BMithunKumar/TalentFinder-AuthService))
-![GitHub issues]([https://img.shields.io/github/issues/BMithunKumar/devops-practice)](https://github.com/BMithunKumar/TalentFinder-AuthService))
-![License]([https://img.shields.io/github/license/BMithunKumar/devops-practice](https://github.com/BMithunKumar/TalentFinder-AuthService))
+![GitHub last commit](https://img.shields.io/github/last-commit/BMithunKumar/Git-Repositories)
+![GitHub issues](https://img.shields.io/github/issues/BMithunKumar/Git-Repositories)
+![License](https://img.shields.io/github/license/BMithunKumar/Git-Repositories)
 
 ## About
-This project is a hands-on DevOps learning exercise covering Git, GitHub workflows, CI/CD, and collaboration.
+This repository is a hands-on DevOps practice project designed to learn and experiment with:
+
+- Git and GitHub workflows
+- Branching and merging
+- Pull requests and collaboration
+- CI/CD concepts
+- Linux and shell scripting
+- DevOps best practices
+
+## Features
+- Git branching strategies
+- Merge and rebase practice
+- Pull request workflow
+- Collaboration setup
+- Linux command practice
+- DevOps learning resources
 
 ## Setup
-1. Clone the repository: `git clone https://github.com/PersonA-username/devops-practice.git`
-2. Navigate into the folder: `cd devops-practice`
-3. Start contributing by creating a new branch
 
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+### Clone the Repository
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+```bash
+git clone https://github.com/BMithunKumar/Git-Repositories.git
