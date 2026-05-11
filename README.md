@@ -3,9 +3,9 @@
 
 # DevOps Practice Project
 
-![GitHub last commit](https://img.shields.io/github/last-commit/BMithunKumar/devops-practice)
-![GitHub issues](https://img.shields.io/github/issues/BMithunKumar/devops-practice)
-![License](https://img.shields.io/github/license/BMithunKumar/devops-practice)
+![GitHub last commit]([https://img.shields.io/github/last-commit/BMithunKumar/devops-practice](https://github.com/BMithunKumar/TalentFinder-AuthService))
+![GitHub issues]([https://img.shields.io/github/issues/BMithunKumar/devops-practice)](https://github.com/BMithunKumar/TalentFinder-AuthService))
+![License]([https://img.shields.io/github/license/BMithunKumar/devops-practice](https://github.com/BMithunKumar/TalentFinder-AuthService))
 
 ## About
 This project is a hands-on DevOps learning exercise covering Git, GitHub workflows, CI/CD, and collaboration.
